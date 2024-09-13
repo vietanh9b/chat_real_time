@@ -40,3 +40,4 @@ Edit.layout=(page)=>{
     ></AuthenticatedLayout>
     );
 }
+export default Edit;
